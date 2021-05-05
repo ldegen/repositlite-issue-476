@@ -10,9 +10,6 @@
     <module>test-module-a</module>
     <module>test-module-b</module>
   </modules>
-  <!-- n.b.: I realize this may not be "The Maven Way", but
-    I much rather not reference our infrastructure here.
-  -->
   <properties>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
