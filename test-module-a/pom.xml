@@ -37,7 +37,4 @@
       </plugin>
     </plugins>
   </build>
-  <!-- n.b.: I realize this may not be "The Maven Way", but
-    I much rather not reference our infrastructure here.
-  -->
 </project>
