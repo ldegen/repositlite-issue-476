@@ -9,7 +9,4 @@
     <artifactId>test-parent</artifactId>
     <version>1.0.0-SNAPSHOT</version>
   </parent>
-  <!-- n.b.: I realize this may not be "The Maven Way", but
-    I much rather not reference our infrastructure here.
-  -->
 </project>
